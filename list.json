@@ -1,1 +1,569 @@
-null
+{
+ "version": 1,
+ "id": "20261122155814",
+ "made": "22/11/2026 15:58",
+ "categories": [
+  {
+   "name": "Vegetables",
+   "items": [
+    {
+     "key": "Vegetables|aardappelen",
+     "name": "aardappelen",
+     "amount": "750 g",
+     "dishes": [
+      "Balletjes in tomatensaus"
+     ]
+    },
+    {
+     "key": "Vegetables|avocado",
+     "name": "avocado",
+     "amount": "1 pcs",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Vegetables|courgette",
+     "name": "courgette",
+     "amount": "0.6 pcs",
+     "dishes": [
+      "Balletjes in tomatensaus"
+     ]
+    },
+    {
+     "key": "Vegetables|kerstomaten",
+     "name": "kerstomaten",
+     "amount": "50 g",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Vegetables|knoflook",
+     "name": "knoflook",
+     "amount": "6.9 clove",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Beef kefta wraps",
+      "Crispy rice salade",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Vegetables|knoflookbol",
+     "name": "knoflookbol",
+     "amount": "0.6 pcs",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Vegetables|komkommer",
+     "name": "komkommer",
+     "amount": "0.4 pcs",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Vegetables|koriander",
+     "name": "koriander",
+     "amount": "",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Vegetables|lente-ui",
+     "name": "lente-ui",
+     "amount": "2 pcs",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Vegetables|munt",
+     "name": "munt",
+     "amount": "",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Vegetables|peterselie",
+     "name": "peterselie",
+     "amount": "11.6 g",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Beef kefta wraps",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Vegetables|rode paprika",
+     "name": "rode paprika",
+     "amount": "3 pcs",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Vegetables|rode ui",
+     "name": "rode ui",
+     "amount": "0.2 pcs",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Vegetables|tomaten",
+     "name": "tomaten",
+     "amount": "733 g",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Vegetables|ui",
+     "name": "ui",
+     "amount": "2.3 pcs",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Beef kefta wraps",
+      "Gevulde paprika"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fruit",
+   "items": [
+    {
+     "key": "Fruit|citroen",
+     "name": "citroen",
+     "amount": "0.4 pcs",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Fruit|limoen",
+     "name": "limoen",
+     "amount": "0.4 pcs",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Meat",
+   "items": [
+    {
+     "key": "Meat|gemengd gehakt",
+     "name": "gemengd gehakt",
+     "amount": "625 g",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Meat|mager rundergehakt",
+     "name": "mager rundergehakt",
+     "amount": "266 g",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Dairy & Eggs",
+   "items": [
+    {
+     "key": "Dairy & Eggs|eieren",
+     "name": "eieren",
+     "amount": "1 pcs",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Dairy & Eggs|feta",
+     "name": "feta",
+     "amount": "50 g",
+     "dishes": [
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Dairy & Eggs|griekse yoghurt",
+     "name": "Griekse yoghurt",
+     "amount": "40 g",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bread & Bakery",
+   "items": [
+    {
+     "key": "Bread & Bakery|paneermeel",
+     "name": "paneermeel",
+     "amount": "60 g",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Bread & Bakery|wraps",
+     "name": "wraps",
+     "amount": "2 pcs",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pasta, Rice & Grains",
+   "items": [
+    {
+     "key": "Pasta, Rice & Grains|orzo",
+     "name": "orzo",
+     "amount": "166 g",
+     "dishes": [
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Pasta, Rice & Grains|rijst",
+     "name": "rijst",
+     "amount": "116 g",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Spices & Condiments",
+   "items": [
+    {
+     "key": "Spices & Condiments|chilipasta",
+     "name": "chilipasta",
+     "amount": "",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|gerookt paprikapoeder",
+     "name": "gerookt paprikapoeder",
+     "amount": "",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|groentebouillon",
+     "name": "groentebouillon",
+     "amount": "x2",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|honing",
+     "name": "honing",
+     "amount": "",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|italiaanse kruiden",
+     "name": "Italiaanse kruiden",
+     "amount": "",
+     "dishes": [
+      "Balletjes in tomatensaus"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|kaneel",
+     "name": "kaneel",
+     "amount": "x2",
+     "dishes": [
+      "Beef kefta wraps",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|komijn",
+     "name": "komijn",
+     "amount": "",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|kurkuma",
+     "name": "kurkuma",
+     "amount": "",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|neutrale olie",
+     "name": "neutrale olie",
+     "amount": "",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|olijfolie",
+     "name": "olijfolie",
+     "amount": "x3",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Beef kefta wraps",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|oregano",
+     "name": "oregano",
+     "amount": "",
+     "dishes": [
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|paprikapoeder",
+     "name": "paprikapoeder",
+     "amount": "x3",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Beef kefta wraps",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|piment",
+     "name": "piment",
+     "amount": "",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|rijstazijn",
+     "name": "rijstazijn",
+     "amount": "",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|rozemarijn",
+     "name": "rozemarijn",
+     "amount": "",
+     "dishes": [
+      "Balletjes in tomatensaus"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|sojasaus",
+     "name": "sojasaus",
+     "amount": "",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|suiker",
+     "name": "suiker",
+     "amount": "",
+     "dishes": [
+      "Balletjes in tomatensaus"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|sumak",
+     "name": "sumak",
+     "amount": "",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|tahin",
+     "name": "tahin",
+     "amount": "",
+     "dishes": [
+      "Beef kefta wraps"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|tomatenpuree",
+     "name": "tomatenpuree",
+     "amount": "x2",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|zout",
+     "name": "zout",
+     "amount": "x3",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Beef kefta wraps",
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Spices & Condiments|zwarte peper",
+     "name": "zwarte peper",
+     "amount": "x3",
+     "dishes": [
+      "Balletjes in tomatensaus",
+      "Beef kefta wraps",
+      "Gevulde paprika"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Frozen",
+   "items": [
+    {
+     "key": "Frozen|edamame",
+     "name": "edamame",
+     "amount": "76 g",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Other",
+   "items": [
+    {
+     "key": "Other|dragon",
+     "name": "dragon",
+     "amount": "",
+     "dishes": [
+      "Patatjes zalm"
+     ]
+    },
+    {
+     "key": "Other|groene olijven",
+     "name": "groene olijven",
+     "amount": "34 g",
+     "dishes": [
+      "Gevulde paprika"
+     ]
+    },
+    {
+     "key": "Other|mosterd",
+     "name": "mosterd",
+     "amount": "",
+     "dishes": [
+      "Patatjes zalm"
+     ]
+    },
+    {
+     "key": "Other|patatjes",
+     "name": "patatjes",
+     "amount": "",
+     "dishes": [
+      "Patatjes zalm"
+     ]
+    },
+    {
+     "key": "Other|pinda's",
+     "name": "pinda's",
+     "amount": "36 g",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Other|room",
+     "name": "room",
+     "amount": "",
+     "dishes": [
+      "Patatjes zalm"
+     ]
+    },
+    {
+     "key": "Other|tomatenblokjes (blik)",
+     "name": "tomatenblokjes (blik)",
+     "amount": "201 g",
+     "dishes": [
+      "Balletjes in tomatensaus"
+     ]
+    },
+    {
+     "key": "Other|tonijn in eigen nat (potje)",
+     "name": "tonijn in eigen nat (potje)",
+     "amount": "0.6 pcs",
+     "dishes": [
+      "Crispy rice salade"
+     ]
+    },
+    {
+     "key": "Other|zalm",
+     "name": "zalm",
+     "amount": "",
+     "dishes": [
+      "Patatjes zalm"
+     ]
+    },
+    {
+     "key": "Other|zongedroogde tomaten",
+     "name": "zongedroogde tomaten",
+     "amount": "34 g",
+     "dishes": [
+      "Gevulde paprika"
+     ]
+    }
+   ]
+  }
+ ],
+ "meals": [
+  {
+   "title": "Day 1 · Dinner: Balletjes in tomatensaus (3 people)",
+   "ingredients": "gemengd gehakt (375 g), aardappelen (750 g), tomaten (399 g), tomatenblokjes (blik) (201 g), rode paprika (0.6 pcs), courgette (0.6 pcs), ui (0.9 pcs), knoflook (2.1 clove), peterselie, eieren (0.6 pcs), paneermeel (36 g), tomatenpuree, groentebouillon, Italiaanse kruiden, paprikapoeder, rozemarijn, suiker, olijfolie, zout, zwarte peper"
+  },
+  {
+   "title": "Day 2 · Dinner: Beef kefta wraps (2 people)",
+   "ingredients": "mager rundergehakt (266 g), wraps (2 pcs), kerstomaten (50 g), rode ui (0.2 pcs), ui (0.4 pcs), knoflook (2.6 clove), knoflookbol (0.6 pcs), peterselie (11.6 g), citroen (0.4 pcs), Griekse yoghurt (40 g), tahin, sumak, gerookt paprikapoeder, paprikapoeder, komijn, piment, kurkuma, kaneel, olijfolie, zout, zwarte peper"
+  },
+  {
+   "title": "Day 3 · Dinner: Crispy rice salade (2 people)",
+   "ingredients": "tonijn in eigen nat (potje) (0.6 pcs), rijst (116 g), edamame (76 g), avocado (1 pcs), komkommer (0.4 pcs), lente-ui (2 pcs), munt, koriander, knoflook (0.6 clove), limoen (0.4 pcs), pinda's (36 g), sojasaus, rijstazijn, honing, chilipasta, neutrale olie"
+  },
+  {
+   "title": "Day 4 · Dinner: Gevulde paprika (2 people)",
+   "ingredients": "gemengd gehakt (250 g), orzo (166 g), rode paprika (2.4 pcs), tomaten (334 g), ui (1 pcs), knoflook (1.6 clove), peterselie, zongedroogde tomaten (34 g), groene olijven (34 g), feta (50 g), eieren (0.4 pcs), paneermeel (24 g), tomatenpuree, groentebouillon, oregano, kaneel, paprikapoeder, olijfolie, zout, zwarte peper"
+  },
+  {
+   "title": "Day 5 · Dinner: Patatjes zalm (2 people)",
+   "ingredients": "patatjes, zalm, room, mosterd, dragon"
+  }
+ ]
+}
